@@ -1,0 +1,15 @@
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\bin\Debug\net6.0\AzureConsoleApp.exe
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\bin\Debug\net6.0\AzureConsoleApp.deps.json
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\bin\Debug\net6.0\AzureConsoleApp.runtimeconfig.json
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\bin\Debug\net6.0\AzureConsoleApp.dll
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\bin\Debug\net6.0\AzureConsoleApp.pdb
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\obj\Debug\net6.0\AzureConsoleApp.csproj.AssemblyReference.cache
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\obj\Debug\net6.0\AzureConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\obj\Debug\net6.0\AzureConsoleApp.AssemblyInfoInputs.cache
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\obj\Debug\net6.0\AzureConsoleApp.AssemblyInfo.cs
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\obj\Debug\net6.0\AzureConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\obj\Debug\net6.0\AzureConsoleApp.dll
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\obj\Debug\net6.0\refint\AzureConsoleApp.dll
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\obj\Debug\net6.0\AzureConsoleApp.pdb
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\obj\Debug\net6.0\AzureConsoleApp.genruntimeconfig.cache
+C:\Users\JIPHEENS\source\repos\MyAzureFunction\AzureConsoleApp\obj\Debug\net6.0\ref\AzureConsoleApp.dll
